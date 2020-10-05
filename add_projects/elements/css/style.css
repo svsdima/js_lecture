@@ -67,11 +67,31 @@ button {
             transform-origin :100% 100%;
 }
 .black{
-	width: 150px;
+	width: 200px;
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
 	background-color: black;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	color: #fff;
+}
+.red{
+	width: 500px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: red;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	color: #fff;
+}
+.green{
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background-color: green;
 	margin-bottom: 30px;
 	margin-top: 30px;
 	color: #fff;
