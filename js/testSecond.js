@@ -1,0 +1,1 @@
+console.log('Меня загрузили из dinamicScript.js, а я есть testSecond.js');
