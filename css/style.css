@@ -7,3 +7,10 @@ body {
     background-color: red;
     text-align: center;
 }
+.btn_this {
+    margin-top: 30px;
+    width: 100px;
+    height: 50px;
+    background-color: 	#F4A460;
+    color:	#800000 ;
+}
