@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+.container {
+    background-color: #BDB76B;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border: 10px;
+    border-color: #F0E68C;
+    margin-top: 50px;
+    padding: 80px;
+    border-style: groove;
+    
+}
+p {
+    font-size: 30px;
+    font-weight: 600;
+}
+label {
+    display: block;
+    font-size: 22px;
+    margin: 0;
+    margin-top: 10px;
+}
+input {
+    height: 30px;
+}
