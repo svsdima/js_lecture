@@ -23,4 +23,10 @@ const user = (function(){
     const privat = function() {
         console.log('Я приватная функция!');
     };
+
+    return {
+        sayHello: privat
+    };
 }());
+
+user.sayHello();
